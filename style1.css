@@ -1,0 +1,35 @@
+body {
+    background-color:#00cccc;
+    color:#f2f2f2;
+}
+h1{
+        font-family: arial;
+        font-size:22px;
+} 
+p.text{
+    background-color:#dab3ff;
+    color: #993366;
+    text-align: center;
+}
+p.höger{
+    text-align: right;
+}
+a:link{
+    text-decoration: none
+}
+p.border{
+    border-top:dotted;
+    border-right:double;
+    border-left:double;
+    border-bottom:dotted;
+    border-width:7px;
+    border-radius:7px;
+    border-color:#dab3ff;
+}
+
+
+
+
+
+
+
